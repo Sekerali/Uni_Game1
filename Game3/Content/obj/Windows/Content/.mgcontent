@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/boss_core.fbx</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/boss_shield.fbx</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/boss_ship.fbx</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/boss_turret.fbx</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/Bullet.fbx</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/credits.spritefont</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/Enemy_Ship1.fbx</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/enemy_ship2.fbx</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/1.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/10.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/11.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/12.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/13.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/14.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/15.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/16.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/17.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/18.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/19.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/2.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/20.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/21.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/22.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/23.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/24.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/25.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/26.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/27.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/28.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/29.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/3.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/30.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/31.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/32.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/33.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/34.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/35.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/36.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/37.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/38.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/39.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/4.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/40.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/41.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/42.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/43.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/44.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/45.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/46.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/47.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/48.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/49.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/5.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/50.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/51.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/52.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/53.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/54.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/55.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/56.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/57.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/58.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/59.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/6.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/60.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/61.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/62.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/63.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/64.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/7.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/8.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/explosion/9.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/Floor.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/Health.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/Health_Back.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/Health_Name.spritefont</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/Main_Back.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/Main_Button.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/Main_Button_Text.spritefont</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/Main_Header.png</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/Player_Ship.fbx</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/sound/boss.mp3</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/sound/creditsselect.mp3</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/sound/enemyshoot.wav</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/sound/explosion.wav</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/sound/ingame.mp3</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/sound/levelselect.mp3</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/sound/main.mp3</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/sound/playershoot.wav</File>
+    <File>C:/Users/Me/Documents/uni/Game3/Game3/Content/sound/spawn.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
